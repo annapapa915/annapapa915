@@ -21,4 +21,4 @@
 
 <b>You can find me on:</b> <br />
 [![socials](https://user-images.githubusercontent.com/37189670/198701353-f997c7ea-0df8-4852-8d48-ab0f2454c9d9.png)](https://www.linkedin.com/authwall?trk=qf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannapapa915%2F)
-[![socials-mail](https://user-images.githubusercontent.com/37189670/198711463-ac036d65-defd-4ee1-bf12-766e77d0fb5d.png)](https://brokenheartsyndro.me)
+[![socials-mail]()
